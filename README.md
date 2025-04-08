@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DataBiscuit
-- 👀 I’m interested in Data Science: Making story telling easy for users to understand with visualizations.
-- 🌱 I’m currently learning how to make visualizations easier for people to understand
+- 👀 I’m interested in Data Science: Making story telling easy for non-technical users to understand.
+- 🌱 I’m currently learning how to make visualizations easier for non-technical users and how analyze data and text (NLP) using Python!!!
 - 💞️ I’m looking to collaborate on more practice projects to become even more familiar with Visualizations.
 - 📫 How to reach me on email: christopher.harris9592@gmail.com
 - 😄 Pronouns: He/Him
